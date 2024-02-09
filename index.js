@@ -83,7 +83,9 @@ const perguntas = [
     {
       pergunta: "Qual é o melhor personagem de Desencanto?",
       respostas: [
-        "Luci"
+        "Luci",
+        "a primeira alternativa",
+        "não tem como errar né?"
       ],
       correta: 0
     }
