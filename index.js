@@ -1,93 +1,91 @@
 const perguntas = [
     {
-      pergunta: "Qual é a forma correta de declarar uma variável em JavaScript?",
+      pergunta: "Qual é o nome do irmão de Bean?",
       respostas: [
-        "var myVar;",
-        "variable myVar;",
-        "let myVar;"
+        "Derek",
+        "Ovaldo",
+        "Elfo"
       ],
       correta: 0
     },
     {
-      pergunta: "Qual é o método que converte uma string em um número em JavaScript?",
+      pergunta: "Qual é o nome da personagem principal de Desencanto?",
       respostas: [
-        "parseInt()",
-        "stringToNumber()",
-        "toNumber()"
+        "Elara",
+        "Bean",
+        "Luci"
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "Qual o nome da criada da Bean?",
+      respostas: [
+        "Benta",
+        "Tia Anastácia",
+        "Oona"
       ],
       correta: 0
     },
     {
-      pergunta: "Qual é o operador de igualdade estrita em JavaScript?",
+      pergunta: "Qual é a espécie de Luci em Desencanto?",
       respostas: [
-        "==",
-        "===",
-        "="
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "O que o método 'push()' faz em JavaScript?",
-      respostas: [
-        "Remove o último elemento de um array",
-        "Adiciona um elemento ao final de um array",
-        "Inverte a ordem dos elementos em um array"
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a função usada para imprimir algo no console em JavaScript?",
-      respostas: [
-        "print()",
-        "console.log()",
-        "output()"
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a maneira correta de comentar código em JavaScript?",
-      respostas: [
-        "<!-- Comentário -->",
-        "// Comentário",
-        "/* Comentário */"
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é o resultado de '5' + 3 em JavaScript?",
-      respostas: [
-        "53",
-        "8",
-        "5 + 3"
+        "Demônio",
+        "Goblin",
+        "Elfo"
       ],
       correta: 0
     },
     {
-      pergunta: "Qual é a palavra-chave usada para declarar uma função em JavaScript?",
+      pergunta: "Qual é a maior vilã da série?",
       respostas: [
-        "method",
-        "function",
-        "func"
+        "Criada",
+        "Beijoca",
+        "Dagmar"
+      ],
+      correta: 2
+    },
+    {
+      pergunta: "Qual é o nome do cientista louco que trabalha para o rei Zøg?",
+      respostas: [
+        "Bruxo",
+        "Bruxério",
+        "Ovaldo"
       ],
       correta: 1
     },
     {
-      pergunta: "O que o método 'indexOf()' retorna quando o elemento não é encontrado em um array?",
+      pergunta: "Do que o Derek mais tem medo?",
       respostas: [
-        "null",
-        "undefined",
-        "-1"
+        "De pasta de amendoim",
+        "De bater o dedinho na quina",
+        "Da frigideira que a manteiga derrete"
       ],
       correta: 2
     },
     {
-      pergunta: "Qual é o resultado de 3 * '3' em JavaScript?",
+      pergunta: "Qual é o nome do elfo que se torna amigo de Bean e Luci?",
       respostas: [
-        "9",
-        "33",
-        "TypeError"
+        "Elfo",
+        "Beijoca",
+        "Chocado (o quêêê)"
       ],
-      correta: 2
+      correta: 0
+    },
+    {
+      pergunta: "Qual o nome da sereia que é namorada da Bean?",
+      respostas: [
+        "Mora",
+        "Dagmar",
+        "Rebecca"
+      ],
+      correta: 0
+    },
+    {
+      pergunta: "Qual é o melhor personagem de Desencanto?",
+      respostas: [
+        "Luci"
+      ],
+      correta: 0
     }
   ];
   
